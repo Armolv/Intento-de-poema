@@ -1,4 +1,4 @@
-Intento de poema
+Intento de poema pero con sentimiento
 
 No se sabe el tiempo
 No se sabe el dia
@@ -10,4 +10,5 @@ cuento con las horas
 cuento con el tiempo
 pero no cuento con nadie 
 
+aun asi no se necesita nada mas
 fin
